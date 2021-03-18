@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -X
-
 # Install Docker
 echo "Installing docker"
 curl -sSL https://get.docker.com | sh
